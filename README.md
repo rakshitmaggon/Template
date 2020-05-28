@@ -15,7 +15,7 @@
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -100,6 +100,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+If you are just getting started with GitHub then I recommended you to read [this](https://github.com/wimpywarlord/first-contributions/blob/master/README.md) document. This is for when you look forward to making small changes and pull requests.
+
+In case you want a comprehensive understanding of GitHub and want to become a long term contributor to this project, I recommend reading [this]( https://gist.github.com/Chaser324/ce0505fbed06b947d962) document.
+
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
@@ -107,6 +111,8 @@ npm install npm@latest -g
 ```
 
 ### Installation
+
+Optionally I recommend you to download **Sublime text** 3.Its a amazing free editor from [here](https://www.sublimetext.com/3).
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -158,16 +164,13 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## I'm a social animal!
 
+So connect with me and share your experience.
 
-<!-- CONTACT -->
-## Contact
+I would love to interact with this world full of amazing people such as you. 
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
+<a href="https://www.facebook.com/kshitij.dhyani.3" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/kshitijdhyani/" target="_blank"><img height="32" width="32" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/kshitij_dhyani/?hl=en" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -188,7 +191,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
