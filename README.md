@@ -187,7 +187,9 @@ I would love to interact with this world full of amazing people such as you.
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
-
+<p align="center">
+	With :heart: by <a href="https://rakshit.netlify.app/" target="_blank">Rakshit Maggon</a>
+</p>
 
 
 
