@@ -51,7 +51,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 If you are just getting started with GitHub then I recommended you to read [this](https://github.com/wimpywarlord/first-contributions/blob/master/README.md) document. This is for when you look forward to making small changes and pull requests.
 
-In case you want a comprehensive understanding of GitHub and want to become a long term contributor to this project, I recommend reading [this]( https://gist.github.com/Chaser324/ce0505fbed06b947d962) document.
+In case you want a comprehensive understanding of GitHub and want to become a long term contributor to this project, I recommend reading [this](#) document.
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -60,8 +60,6 @@ npm install npm@latest -g
 ```
 
 ### Installation
-
-Optionally I recommend you to download **Sublime text** 3.Its a amazing free editor from [here](https://www.sublimetext.com/3).
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -99,12 +97,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact me 
 
-So connect with me and share your experience.
-
-I would love to interact with this world full of amazing people such as you. 
-
-<a href="#" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="#" target="_blank"><img height="32" width="32" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> &nbsp;&nbsp;
-
+Feel free to connect with me [Click here](https://rakshitmaggon.co/)
 
 <p align="center">
 	With :heart: by <a href="https://rakshit.netlify.app/" target="_blank">Rakshit Maggon</a>
